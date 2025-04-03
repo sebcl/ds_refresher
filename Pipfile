@@ -11,6 +11,8 @@ scikit-learn = "*"
 xgboost = "*"
 graphviz = "*"
 scipy = "*"
+lxml = "*"
+yfinance = "*"
 
 [dev-packages]
 ipykernel = "*"
